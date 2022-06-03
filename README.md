@@ -8,7 +8,7 @@ I am currently in training at the O'clock school to become a Web developer.
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [aiss.ghed@gmail.com](mailto:aiss.ghed@gmail.com)
-* 🧠  I'm learning ReactJS/nodeJS
+* 🧠  I'm learning reactJS/nodeJS
 
 <a href="https://www.twitter.com/1Dev_french" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/1Dev_french?logo=twitter&style=for-the-badge&color=22c55e&labelColor=000000"
