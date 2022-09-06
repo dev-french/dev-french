@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! My name is Aïssa and I'm a PHP dev, from Paris.</h2>
 
-###
+```
+🧠  I'm learning Laravel/Symfony 
+```
 
 <br clear="both">
 
@@ -42,3 +44,7 @@
 </div>
 
 ###
+
+```
+✉️  You can contact me at aiss.ghed@gmail.com
+```
