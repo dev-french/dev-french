@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Aïssa and I'm a PHP dev, from Paris.</h2>
 
 ```
-🧠  I'm learning Laravel / VueJS
+🧠  I'm learning Laravel 
 ```
 
 <br clear="both">
