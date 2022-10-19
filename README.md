@@ -46,5 +46,5 @@
 ###
 
 ```
-✉️  You can contact me at aiss.ghed@gmail.com
+✉️  You can contact me at dev_french@proton.me
 ```
