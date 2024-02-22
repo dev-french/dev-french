@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Aïssa and I'm a fullstack dev, from Paris.</h2>
 
 ```
-🧠  I'm learning Angular 
+🧠  I'm learning Angular framwork
 ```
 
 <br clear="both">
