@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Aïssa and I'm a fullstack dev, from Paris.</h2>
 
 ```
-🧠  I'm learning Angular framwork
+🧠  “N’importe quel idiot peut écrire du code qu'un ordinateur peut comprendre. Les bons programmeurs écrivent du code que les humains peuvent comprendre.” - Martin Fowler
 ```
 
 <br clear="both">
