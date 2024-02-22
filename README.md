@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm a fullstack dev, from Paris.</h2>
+<h2 align="left">Hi 👋 I'm a fullstack dev, from Paris.</h2>
 
 ```
 🧠   N’importe quel idiot peut écrire du code qu'un ordinateur peut comprendre.
