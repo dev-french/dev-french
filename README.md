@@ -10,12 +10,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-</div>
-
-###
-
 ```
 ✉️  You can contact me at dev_french@proton.me
 ```
